@@ -1,6 +1,8 @@
 <?php
 
-class YandexDiskWebdav
+namespace Erbilen;
+
+class YandexDisk
 {
 
     const WEBDAV_URL = 'https://webdav.yandex.com.tr/';
